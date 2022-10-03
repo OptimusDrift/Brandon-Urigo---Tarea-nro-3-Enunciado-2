@@ -58,3 +58,8 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Assets
+/Assets/Dragon
+/Assets/_PoiyomiShaders
+/Assets/NardoDrift
+/Assets/VRCSDK
